@@ -1,6 +1,8 @@
-# Project "Redes Sociais"
+# Project "Redes Sociais" of "Curso em Vídeo"
 
-[Click here to access the project]()
+![preview](imagens/hudsonsena.github.io_ProjetoRedesSociais_.png)
+
+[Click here to access the project](https://hudsonsena.github.io/ProjetoRedesSociais/)
 
 # Technologies
 
